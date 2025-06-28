@@ -4,7 +4,7 @@
 
 HTTP for fun - This server may reveal the flag if you send the proper request
 
-[https://c106.ctfsig.org/9bf0c855d9d39ecb92f819dcb532f422/](https://c106.ctfsig.org/9bf0c855d9d39ecb92f819dcb532f422/)
+[https://c106.ctfsig.org/9bf0c855d9d39ecb92f819dcb532f422/](hxxps[://]c106[.]ctfsig[.]org/9bf0c855d9d39ecb92f819dcb532f422/)
 
 # Solution:
 
